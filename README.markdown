@@ -19,6 +19,5 @@ A simple and efficient to-do list application to help you organize and manage yo
 3. Open `index.html` in a web browser to use the app.
 
 ## Preview
-Insert a screenshot or GIF of the app in action below:
 
 ![To-Do List App Preview](./images/preview.png)
